@@ -1,6 +1,6 @@
 - 👋 Hi - I’m Joanne Chen. I joined LiveRamp as a product operations analyst. 
 - 👀 I love data, programming, graph, and technology in general.
-- 🌱 I’m currently learning and understanding our products and processes in a high level.
+- 🌱 I’m currently learning and understanding our products and processes.
 - 📫 You can reach me at joanne.chen@liveramp.com or Slack, happy to connect!
 
 <!---
